@@ -8,4 +8,4 @@ models/
 *.fthr
 __pycache_
 env/
-
+.ipynb_checkpoints
