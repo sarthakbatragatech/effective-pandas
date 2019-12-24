@@ -12,4 +12,4 @@ Working through Tom Augspurger's [Effective Pandas Notebook series](http://tomau
 - [Visualization](modern_6_visualization.ipynb)
 - [Time Series](modern_7_timeseries.ipynb)
 - [Out of Core](modern_8_out_of_core.ipynb) (partial)
-- [MovieLens Experiments](movie_lens_experiments.ipynb)
+- [MovieLens Experiments](movie_lens_experiments.ipynb) (inspiration from [Greg Reda's blogpost](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/))
