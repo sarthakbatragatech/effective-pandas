@@ -6,7 +6,7 @@ models/
 *.pdf
 *.epub
 *.fthr
-__pycache_
+__pycache__
 env/
 .ipynb_checkpoints
 .DS_Store

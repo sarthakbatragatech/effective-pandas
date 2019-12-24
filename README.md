@@ -1,11 +1,6 @@
 # Effective Pandas
 
-Working through Tom Augspurger's Effective Pandas Notebook series in order to understand the best Pandas practices.
-
-![Effective Pandas](cover/modern-pandas-cover.png)
-
-A collection of notebooks behind my [series](http://tomaugspurger.github.io/modern-1-intro.html) on
-writing idiomatic pandas.
+Working through Tom Augspurger's [Effective Pandas Notebook series](http://tomaugspurger.github.io/modern-1-intro.html) and adding some of my own data wrangling and analytics experiments in order to understand the best Pandas practices.
 
 ## Contents
 
@@ -17,3 +12,4 @@ writing idiomatic pandas.
 - [Visualization](modern_6_visualization.ipynb)
 - [Time Series](modern_7_timeseries.ipynb)
 - [Out of Core](modern_8_out_of_core.ipynb) (partial)
+- [MovieLens Experiments](movie_lens_experiments.ipynb)
